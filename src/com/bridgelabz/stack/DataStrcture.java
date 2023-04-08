@@ -11,5 +11,7 @@ public class DataStrcture {
 		queue.add(30);
 		queue.add(70);
 		System.out.println(queue);
+		queue.remove();
+		System.out.println(queue);
 }
 }
